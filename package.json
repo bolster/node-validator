@@ -1,4 +1,4 @@
-{ "name"          : "validator",
+{ "name"          : "validator-old",
   "description"   : "Data validation, filtering and sanitization for node.js",
   "version"       : "1.2.1",
   "homepage"      : "http://github.com/chriso/node-validator",
